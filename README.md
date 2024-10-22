@@ -9,7 +9,7 @@ index html
 </head>
 <body>
     <header>
-        <h1>Welcome to My Website</h1>
+        <h1>Jane Velarde’s Website</h1>
     </header>
     <main>
         <p>This is a simple webpage to demonstrate external CSS styling.</p>
